@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitesh-bit
 - 👀 I’m interested in coding and watching web series
-- 🌱 I’m currently learning Data structures and algorithms and also React.Js
+- 🌱 I’m currently learning Gen AI with LangChain
 - 📫 You can reach me at chaudharynitesh696@gmail.com
 
 <!---
